@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
-My name is Arunsridher and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+I am Alireza Kianejad and I am interested in web programming - building technology, teaching and learning new technologies.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,10 +28,10 @@ My name is Arunsridher and I"m a Software Engineer who is passionate about build
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunsridher&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kianejad&show_icons=true&locale=en&layout=compact&theme=radical" alt="alireza kianejad" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianejad&theme=radical" alt="alireza kianejad" /></p>
  
  <br />
  

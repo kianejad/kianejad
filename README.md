@@ -12,19 +12,62 @@
 I am Alireza Kianejad and I am interested in web programming - building technology, teaching and learning new technologies.
 
 ### 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="center">
+  <a target="_blank" href="https://javascript.info/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      alt="Javascript" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.w3schools.com/html/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://www.w3schools.com/css/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://webpack.js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://reactjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://redux.js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://nextjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+      alt="NextJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://nodejs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Express"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://expressjs.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="Express" width="45" height="45" /></a>
+  <a target="_blank" href="https://jquery.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+      alt="jQuery" width="45" height="45" /></a>
+  <a target="_blank" href="https://material-ui.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+      alt="Material-UI" width="45" height="45" /></a>
+  <a target="_blank" href="https://ant.design/"><img
+      src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://tailwindcss.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+      alt="TailwindCSS" width="45" height="45" /></a>
+  <a target="_blank" href="https://getbootstrap.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="Bootstrap" width="45" height="45" /></a>
+  <a target="_blank" href="https://d3js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://www.mongodb.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongoDB" width="45" height="45" /></a>
+  <a target="_blank" href="https://git-scm.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://heroku.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
+      alt="heroku" width="45" height="45" /></a>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 

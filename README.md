@@ -49,9 +49,6 @@ I am Alireza Kianejad and I am interested in web programming - building technolo
   <a target="_blank" href="https://ant.design/"><img
       src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://tailwindcss.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-      alt="TailwindCSS" width="45" height="45" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
@@ -61,9 +58,6 @@ I am Alireza Kianejad and I am interested in web programming - building technolo
   <a target="_blank" href="https://www.mongodb.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongoDB" width="45" height="45" /></a>
-  <a target="_blank" href="https://git-scm.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
-      height="45" /></a>
   <a target="_blank" href="https://heroku.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
       alt="heroku" width="45" height="45" /></a>

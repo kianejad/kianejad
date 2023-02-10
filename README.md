@@ -23,7 +23,7 @@ I am Alireza Kianejad and I am interested in web programming - building technolo
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
   <a target="_blank" href="https://reactjs.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="ReactJS"
       width="45" height="45" /></a>
   <a target="_blank" href="https://jquery.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"

@@ -25,20 +25,17 @@ I am Alireza Kianejad and I am interested in web programming - building technolo
   <a target="_blank" href="https://vuejs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vueJs"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://jquery.com/"><img
+  <a target="_blank" href="https://nuxtjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"
-      alt="jQuery" width="45" height="45" /></a>
-  <a target="_blank" href="https://material-ui.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="Material-UI" width="45" height="45" /></a>
-  <a target="_blank" href="https://ant.design/"><img
-      src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
-      height="45" /></a>
+      alt="nuxtjs" width="45" height="45" /></a>
+  <a target="_blank" href="https://vuetifyjs.com/en/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"
+      alt="vuetify" width="45" height="45" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
-  <a target="_blank" href="https://d3js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
+  <a target="_blank" href="https://www.typescriptlang.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="D3JS" width="45"
       height="45" /></a>
 </p>
 

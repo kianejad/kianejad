@@ -35,7 +35,7 @@ I am Alireza Kianejad and I am interested in web programming - building technolo
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
   <a target="_blank" href="https://www.typescriptlang.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="D3JS" width="45"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45"
       height="45" /></a>
 </p>
 
